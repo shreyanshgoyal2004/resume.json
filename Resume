@@ -39,12 +39,12 @@
     },
     "work": [
         {
-            "company": "IIITians Network",
-            "position": "Web Developer",
-            "website": "https://iiitiansnetwork.com",
+            "company": "",
+            "position": "",
+            "website": "",
             "startDate": "",
             "endDate": "",
-            "summary": "Worked as a web developer for creating the first release of IIITians Network Website"
+            "summary": ""
         },
         {
             "company": "",
@@ -67,7 +67,7 @@
         {
             "institution": "Indian Institute of Information Technology,Kota",
             "area": "Engineering",
-            "studyType": "Bachelor (hons)",
+            "studyType": "Bachelor ",
             "startDate": "",
             "endDate": "",
             "gpa": "8.6",
